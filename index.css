@@ -5,4 +5,10 @@ table, td, th {
     border: 4px inset black;
     border-collapse:collapse;
     margin: auto;
+   
+}
+
+th::nth-child(even),
+td::nth-child(even) {
+    text-align: left;
 }
