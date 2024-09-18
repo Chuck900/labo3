@@ -1,0 +1,8 @@
+h1{
+    text-align:center;
+}
+table, td, th {
+    border: 4px inset black;
+    border-collapse:collapse;
+    margin: auto;
+}
